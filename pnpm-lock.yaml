@@ -4,12 +4,21 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+dependencies:
+  '@supergrowthai/chet':
+    specifier: ^1.0.15
+    version: 1.0.15
+
 devDependencies:
   typescript:
     specifier: ^5.3.3
     version: 5.3.3
 
 packages:
+
+  /@supergrowthai/chet@1.0.15:
+    resolution: {integrity: sha512-ICPo6TDtBRUUsi4Kt5/lMfUXZ3nW9CVG6uoLva07juSr/Ef+dK4mrCXHXNdnZGpWM3jE2M1JainHciEimUSR/g==}
+    dev: false
 
   /typescript@5.3.3:
     resolution: {integrity: sha512-pXWcraxM0uxAS+tN0AG/BF2TyqmHO014Z070UsJ+pFvYuRSq8KH8DmWpnbXe0pEPDHXZV3FcAbJkijJ5oNEnWw==}

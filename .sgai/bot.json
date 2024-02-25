@@ -1,0 +1,29 @@
+{
+  "$schema": "./schema/sgai.bot.schema.json",
+  "name": "Dave the AdCopy Guy",
+  "title": "Lets create best AdCopies for conversion ",
+  "first_message": "",
+  "prompt": "",
+  "model": "",
+  "is_public": false,
+  "rag_enabled": false,
+  "seo_graphic": "",
+  "slug": "",
+  "listing_config": {
+    "title": "",
+    "tags": [],
+    "categories": []
+  },
+  "ui_config": {
+    "title": "",
+    "color": "",
+    "launcher": {
+      "openBtn": "",
+      "color": "",
+      "closeBtn": ""
+    },
+    "bot_name": "",
+    "first_msg": "",
+    "chat_window": ""
+  }
+}

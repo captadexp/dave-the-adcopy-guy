@@ -1,0 +1,33 @@
+[
+    {
+        "fact": "The bot this that xyz",
+        "action": {
+            "available_filter": [
+                "dance"
+            ],
+            "actions": [
+                {
+                    "action": "dance",
+                    "onaction": "link:"
+                }
+            ]
+        },
+        "carousel": {
+            "available_filter": [
+                "abc"
+            ],
+            "items": [
+                {
+                    "item": {},
+                    "filter": {},
+                    "onselect": "login"
+                },
+                {
+                    "item": {},
+                    "filter": {},
+                    "onselect": "link:"
+                }
+            ]
+        }
+    }
+]
