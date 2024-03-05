@@ -22,9 +22,6 @@
                 }
             }
         },
-        "model": {
-            "type": "string"
-        },
         "domains": {
             "type": "array",
             "items": {

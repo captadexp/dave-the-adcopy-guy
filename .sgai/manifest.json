@@ -1,6 +1,5 @@
 {
     "$schema": "./schema/sgai.manifest.schema.json",
-    "name": "Dave the AdCopy guy",
     "contributors": [
         {
             "name": "Adexp",
