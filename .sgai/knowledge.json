@@ -1,33 +1,62 @@
 [
     {
-        "fact": "The bot this that xyz",
-        "action": {
-            "available_filter": [
-                "dance"
-            ],
-            "actions": [
-                {
-                    "action": "dance",
-                    "onaction": "link:"
-                }
-            ]
-        },
-        "carousel": {
-            "available_filter": [
-                "abc"
-            ],
-            "items": [
-                {
-                    "item": {},
-                    "filter": {},
-                    "onselect": "login"
-                },
-                {
-                    "item": {},
-                    "filter": {},
-                    "onselect": "link:"
-                }
-            ]
-        }
+        "fact": "Google (Health Services): Highlight potential health risks and offer your service/product as a preventative solution, creating a sense of urgency."
+    },
+    {
+        "fact": "Facebook (Sports Services): Emphasize the joy and health benefits of engaging with your sports product/service, making it a lifestyle choice."
+    },
+    {
+        "fact": "Instagram (Fashion Retail): Use visually stunning imagery paired with ad copy that evokes the exclusivity and trendiness of your fashion line, appealing to the desire for social status."
+    },
+    {
+        "fact": "LinkedIn (Professional Courses): Focus on career growth and networking opportunities provided by your courses, catering to ambitions and professional aspirations."
+    },
+    {
+        "fact": "Twitter (Tech Gadgets): Utilize witty, concise copy highlighting the innovative features and life-enhancing benefits of your gadget, appealing to tech enthusiasts' desire to stay ahead."
+    },
+    {
+        "fact": "Pinterest (Home Decor): Craft inspirational ad copy that encourages users to envision their ideal living space with your products, tapping into aspirations for a beautiful home."
+    },
+    {
+        "fact": "YouTube (Entertainment Subscriptions): Create engaging, narrative-driven ad copy that teases the exclusive content available, appealing to the fear of missing out (FOMO)."
+    },
+    {
+        "fact": "TikTok (Beauty Products): Leverage short, engaging stories or challenges that showcase the transformative effect of your beauty product, emphasizing visual results and instant gratification."
+    },
+    {
+        "fact": "Google (Educational Tools): Stress the importance of lifelong learning and how your tool facilitates personal and professional development, appealing to users’ desire for self-improvement."
+    },
+    {
+        "fact": "Facebook (Family-Oriented Products): Highlight the benefits of your product for family life or parenting, creating emotional connections based on love and care."
+    },
+    {
+        "fact": "Instagram (Travel Services): Use breathtaking visuals and ad copy that invites users to explore new destinations, tapping into wanderlust and the desire for new experiences."
+    },
+    {
+        "fact": "LinkedIn (Business Software): Emphasize efficiency, productivity gains, and competitive advantage offered by your software, appealing to professional efficiency and success."
+    },
+    {
+        "fact": "Twitter (News and Media Subscriptions): Craft ad copy that positions your subscription as essential for staying informed, leveraging the desire to be in the know."
+    },
+    {
+        "fact": "Pinterest (DIY and Craft Supplies): Inspire creativity with ad copy that showcases potential projects, tapping into the joy of creating and personal expression."
+    },
+    {
+        "fact": "YouTube (Fitness Programs): Utilize motivational ad copy that challenges viewers to reach their fitness goals with your program, tapping into desires for health and aesthetics."
+    },
+    {
+        "fact": "TikTok (Food and Beverage Products): Create fun, engaging challenges or recipes that feature your product, emphasizing taste, convenience, and social sharing."
+    },
+    {
+        "fact": "Google (Financial Services): Focus on financial security and growth, presenting your service as a wise investment or protection against uncertainty."
+    },
+    {
+        "fact": "Facebook (Pet Products): Emphasize the joy and companionship pets bring into our lives and how your product enhances that experience, appealing to love for animals."
+    },
+    {
+        "fact": "Instagram (Art and Collectibles): Use visually rich ad copy that highlights the uniqueness and emotional value of your items, appealing to collectors’ passion and sense of identity."
+    },
+    {
+        "fact": "LinkedIn (Consulting Services): Highlight the tangible business outcomes and expert insights provided by your services, appealing to decision-makers looking for reliable solutions."
     }
 ]

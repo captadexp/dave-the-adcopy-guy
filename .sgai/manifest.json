@@ -1,5 +1,13 @@
 {
-    "domains": [
-        "api.adexp.com"
-    ]
+    "$schema": "./schema/sgai.manifest.schema.json",
+    "name": "Dave the AdCopy guy",
+    "contributors": [
+        {
+            "name": "Adexp",
+            "email": "tech@developer.toys",
+            "link": "https://x.com/supergrowthai",
+            "image": "https://img.com/img.jpeg"
+        }
+    ],
+    "domains": []
 }
