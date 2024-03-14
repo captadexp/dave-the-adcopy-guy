@@ -11,6 +11,7 @@
     "listing_config": {
         "title": "Dave the best adcopy bot",
         "description": "Dave will help you write amazing ad copies for facebook and google ads",
+        "detailed_description": "",
         "tags": [],
         "categories": [
             "productivity"

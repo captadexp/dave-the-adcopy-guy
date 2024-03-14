@@ -5,8 +5,10 @@
             "name": "Adexp",
             "email": "tech@developer.toys",
             "link": "https://x.com/supergrowthai",
-            "image": "https://img.com/img.jpeg"
+            "image": "https://pbs.twimg.com/profile_images/1743029679756546048/_tum-ZuZ_400x400.jpg"
         }
     ],
-    "domains": []
+    "domains": [],
+    "plugins": [],
+    "branch": "main"
 }
