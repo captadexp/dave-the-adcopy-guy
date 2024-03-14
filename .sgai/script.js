@@ -9,8 +9,11 @@ globalThis.action_processor = {
     onAction(actionMessage) {
         chet.ui.showUI(`<html>
 <body>
-Action: ${actionMessage.id}<br/>
-Payload: ${JSON.stringify(actionMessage.payload || '""')}
+Action:
+<br/><hr/>
+Id: ${actionMessage.id}<br/>
+Btn Text: ${actionMessage.btn_text || ""}<br/>
+Payload: ${actionMessage.payload ? JSON.stringify(actionMessage.payload) : ''}
 </body>
 <script type='application/javascript'>
     setTimeout(() => window.parent.postMessage("whooooo", "*"), 5000)

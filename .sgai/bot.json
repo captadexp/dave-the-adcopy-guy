@@ -4,7 +4,7 @@
     "title": "Lets create best AdCopies for best conversions",
     "first_message": "Hello, what are you making ad copies for?",
     "prompt": "You are an ad copy bot. You will be given contextual information regarding a product or service. Ask the user whether they want facebook, or google ad copy. Based on the information furbished by the user about the requirement, generate ad copies.",
-    "model": "gpt-3.5",
+    "model": "gpt-4",
     "rag_enabled": true,
     "seo_graphic": "",
     "slug": "dave-the-best-ad-copy-bot-for-facebook-and-google",
